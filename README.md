@@ -1,2 +1,11 @@
-# mediashare-using-twitchbot-chat
- allows twitch chat to post youtube links of all sorts, and plays them one request after another
+# youtube-twitch-obs
+
+## Project setup
+```
+cd own-stuff
+cd youtube-twitch-obs
+npm install
+npm run serve
+```
+
+
